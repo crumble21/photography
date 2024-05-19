@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://connorrumble.com"
+baseurl: "https://crumblephotos.com"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -7,7 +7,7 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Connor Rumble"
-subtitle: "See the world through my eyes!"
+subtitle: "See some pictures"
 author: "Connor Rumble"
 header:
  title: "Photography"
