@@ -1,20 +1,42 @@
 # Base configs
+<<<<<<< HEAD
 baseurl: "https://connorrumble.com/"
+=======
+baseurl: "https://crumblephotos.com"
+#baseurl: "" # Comment the above line and uncomment this to test the website locally
+>>>>>>> 57a0f3cfd02c62c5db4290ffef3a1a4ba00feb9e
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
 title: "Photography by Connor Rumble"
+<<<<<<< HEAD
 subtitle: ""
+=======
+subtitle: "See some pictures"
+>>>>>>> 57a0f3cfd02c62c5db4290ffef3a1a4ba00feb9e
 author: "Connor Rumble"
 header:
  title: "Photography"
  subtitle: "by Connor Rumble"
 footer:
+<<<<<<< HEAD
  name: "I'm Connor"
  bio: "future home of a bio"
  github: ""
 web_design: "?"
 social_urls:
   instagram: "https://www.instagram.com/21crumble.photos/"
+=======
+ name: "Hey there, my name is Connor"
+ bio: ""
+ github: ""
+web_design: ""
+# Configure which exif data to display
+# Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
+exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
+social_urls:
+  instagram: "https://www.instagram.com/21crumble"
+  github: "https://www.github.com/crumble21"
+>>>>>>> 57a0f3cfd02c62c5db4290ffef3a1a4ba00feb9e
